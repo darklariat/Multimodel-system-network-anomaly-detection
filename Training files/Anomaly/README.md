@@ -1,0 +1,1 @@
+The data collected was simulated through kali linux and collected on another device with Wireshark
